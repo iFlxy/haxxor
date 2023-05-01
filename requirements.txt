@@ -1,0 +1,6 @@
+moviepy
+pygame
+opencv-python
+requests
+flask
+pyinstaller

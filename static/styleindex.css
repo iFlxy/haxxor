@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+body {
+  margin: 0px;
+  font-family: "Roboto";
+  background: #323949;
+
+}
+
+.button {
+  display: inline-block;
+  margin-right: 10px;
+  padding: 0;
+  border: none;
+  background: #339DFF;
+  color: #fff;
+  text-decoration: none;
+  font-size: 13px;
+  line-height: 38px;
+  border-radius: 50px;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  width: 170px;
+  text-align: center;
+}
+
+.button:hover {
+  background: #fff;
+  color: #339DFF;
+}
+
+h1 {
+  font-weight: 700
+}
+
+article {
+  max-width: 10000px;
+  margin: 0 auto;
+  padding: 10px;
+  color: #ffffff;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
